@@ -1,0 +1,10 @@
+G:\Demo\HighchartDemo\HighchartDemo\bin\HighchartDemo.dll
+G:\Demo\HighchartDemo\HighchartDemo\bin\HighchartDemo.pdb
+G:\Demo\HighchartDemo\HighchartDemo\obj\Debug\HighchartDemo.dll
+G:\Demo\HighchartDemo\HighchartDemo\obj\Debug\HighchartDemo.pdb
+E:\Language & Program\s3innovate\HighchartFolder\HighchartDemo\HighchartDemo\bin\HighchartDemo.dll.config
+E:\Language & Program\s3innovate\HighchartFolder\HighchartDemo\HighchartDemo\bin\HighchartDemo.dll
+E:\Language & Program\s3innovate\HighchartFolder\HighchartDemo\HighchartDemo\bin\HighchartDemo.pdb
+E:\Language & Program\s3innovate\HighchartFolder\HighchartDemo\HighchartDemo\obj\Debug\HighchartDemo.csprojResolveAssemblyReference.cache
+E:\Language & Program\s3innovate\HighchartFolder\HighchartDemo\HighchartDemo\obj\Debug\HighchartDemo.dll
+E:\Language & Program\s3innovate\HighchartFolder\HighchartDemo\HighchartDemo\obj\Debug\HighchartDemo.pdb
